@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/movie-recomender-app/static/js/main.2fcdba62.chunk.js",
-    "main.js.map": "/movie-recomender-app/static/js/main.2fcdba62.chunk.js.map",
+    "main.js": "/movie-recomender-app/static/js/main.e0dc53dd.chunk.js",
+    "main.js.map": "/movie-recomender-app/static/js/main.e0dc53dd.chunk.js.map",
     "runtime-main.js": "/movie-recomender-app/static/js/runtime-main.7375b5f3.js",
     "runtime-main.js.map": "/movie-recomender-app/static/js/runtime-main.7375b5f3.js.map",
     "static/js/2.91766ac7.chunk.js": "/movie-recomender-app/static/js/2.91766ac7.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.7375b5f3.js",
     "static/js/2.91766ac7.chunk.js",
-    "static/js/main.2fcdba62.chunk.js"
+    "static/js/main.e0dc53dd.chunk.js"
   ]
 }
