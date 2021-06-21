@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/movie-recomender-app/static/js/main.1780a97e.chunk.js",
-    "main.js.map": "/movie-recomender-app/static/js/main.1780a97e.chunk.js.map",
+    "main.js": "/movie-recomender-app/static/js/main.8297f479.chunk.js",
+    "main.js.map": "/movie-recomender-app/static/js/main.8297f479.chunk.js.map",
     "runtime-main.js": "/movie-recomender-app/static/js/runtime-main.6a93ef64.js",
     "runtime-main.js.map": "/movie-recomender-app/static/js/runtime-main.6a93ef64.js.map",
-    "static/js/2.cb3fe7ef.chunk.js": "/movie-recomender-app/static/js/2.cb3fe7ef.chunk.js",
-    "static/js/2.cb3fe7ef.chunk.js.map": "/movie-recomender-app/static/js/2.cb3fe7ef.chunk.js.map",
+    "static/js/2.a800db6c.chunk.js": "/movie-recomender-app/static/js/2.a800db6c.chunk.js",
+    "static/js/2.a800db6c.chunk.js.map": "/movie-recomender-app/static/js/2.a800db6c.chunk.js.map",
     "static/js/3.218f2cd9.chunk.js": "/movie-recomender-app/static/js/3.218f2cd9.chunk.js",
     "static/js/3.218f2cd9.chunk.js.map": "/movie-recomender-app/static/js/3.218f2cd9.chunk.js.map",
     "index.html": "/movie-recomender-app/index.html",
-    "static/js/2.cb3fe7ef.chunk.js.LICENSE.txt": "/movie-recomender-app/static/js/2.cb3fe7ef.chunk.js.LICENSE.txt"
+    "static/js/2.a800db6c.chunk.js.LICENSE.txt": "/movie-recomender-app/static/js/2.a800db6c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6a93ef64.js",
-    "static/js/2.cb3fe7ef.chunk.js",
-    "static/js/main.1780a97e.chunk.js"
+    "static/js/2.a800db6c.chunk.js",
+    "static/js/main.8297f479.chunk.js"
   ]
 }
